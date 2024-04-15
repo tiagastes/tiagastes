@@ -1,7 +1,7 @@
-# Olá, tudo bem? Me chamo Tiago 👋🏻
+# Olá, tudo bem? 👋🏻
 [![Typing SVG](https://readme-typing-svg.herokuapp.com/?color=fff&size=35&center=true&vCenter=true&width=1000&lines=Bem+vindo+ao+meu+perfil+do+GitHub!+:%29)](https://git.io/typing-svg)
 
-### Atualmente tenho 22 anos e moro em Santa Maria (Rio Grande do Sul), minha cidade natal.
+### Meu nome é Tiago Azevedo, tenho 22 anos e moro em Santa Maria (Rio Grande do Sul), minha cidade natal.
 
 ### Sou estudante de Licenciatura em Ciências Biológicas pela Universidade Federal de Santa Maria e tenho buscado desenvolver habilidades em programação com ênfase em ciência de dados. Minhas áreas de interesse são a biologia molecular, virologia, bioquímica, bioinformática e áreas tangentes.
 
