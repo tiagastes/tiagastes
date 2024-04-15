@@ -1,12 +1,13 @@
 # Olá, tudo bem? Me chamo Tiago 👋🏻
 [![Typing SVG](https://readme-typing-svg.herokuapp.com/?color=fff&size=35&center=true&vCenter=true&width=1000&lines=Bem+vindo+ao+meu+perfil+do+GitHub!+:%29)](https://git.io/typing-svg)
 
-### Atualmente moro em Santa Maria (Rio Grande do Sul), minha cidade natal.
+### Atualmente tenho 22 anos e moro em Santa Maria (Rio Grande do Sul), minha cidade natal.
 
 ### Sou estudante de Licenciatura em Ciências Biológicas pela Universidade Federal de Santa Maria e tenho buscado desenvolver habilidades em programação com ênfase em ciência de dados. Minhas áreas de interesse são a biologia molecular, virologia, bioquímica, bioinformática e áreas tangentes.
 
 ### Tenho buscado ajuda para continuar a minha formação com Python, R e C# na prática em ciências de dados, complementar para a minha formação acadêmica.
 ### Pronomes: Ele/Ela/Elu.
+### Meu Currículo Lattes: http://lattes.cnpq.br/4586316502131702
 
 ## Minhas redes sociais
 
