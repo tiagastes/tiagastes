@@ -32,4 +32,4 @@
 
 ![Tiago Azevedo's GitHub stats](https://github-readme-stats.vercel.app/api?username=tiagastes&theme=tokyonight&_icons=true&hide_title=true)
 
-## Markdown inspirado no de 1amAlan, encontrado neste repositório.
+## Markdown inspirado no de 1amAlan, encontrado no repositório digitalinnovationone/dio-lab-open-source.
